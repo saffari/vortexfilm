@@ -46,6 +46,11 @@ p {
 	float: left;
 }
 
+.kolorado {
+	width: 1840px !important;
+	height: 400px !important;
+}
+
 .video_parts ul {
 	margin: 0;
 }
