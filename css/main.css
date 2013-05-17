@@ -1,0 +1,83 @@
+.nav {
+	margin-left: 20px;
+}
+
+.nav li > a {
+	font-family: 'Averia Libre', cursive;
+	color: #000;
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.nav li > a:hover,
+.nav li > a:focus {
+	color: #ee0c16;
+	background-color: transparent;
+}
+
+.content {
+	margin-top: 60px;
+}
+
+.vertical_scroll {
+	overflow: scroll;
+}
+
+.vertical_scroll ul {
+	margin: 0;
+	width: 1650px;
+	height: 600px;
+}
+
+.vertical_scroll ul > li {
+	list-style: none;
+	float: left;
+}
+
+.content h1 {
+	font-family: 'Averia Libre', cursive;
+	font-weight: bold;
+	font-size: 28px;
+}
+
+.content h2 {
+	font-family: 'Averia Libre', cursive;
+	font-weight: bold;
+	font-size: 23px;
+}
+
+.content h3 {
+	font-family: 'Averia Libre', cursive;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.content p {
+	font-family: 'Averia Libre', cursive;
+}
+
+.content blockquote {
+	font-family: 'Averia Libre', cursive;
+}
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
